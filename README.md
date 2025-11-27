@@ -249,8 +249,8 @@ long microsecondsToCentimeters(long microseconds)
 # OUTPUT:
 
 <img width="1919" height="1079" alt="Dis_sensor" src="https://github.com/user-attachments/assets/52562719-11ae-4006-95f1-9a7fd5fdaa6a" />
-<img width="1896" height="1055" alt="13" src="https://github.com/user-attachments/assets/abfb3913-7ce6-4a71-a41f-0a485240263b" />
-<img width="1919" height="1005" alt="12" src="https://github.com/user-attachments/assets/2dcd6713-e523-488d-97fe-d4e8123cf6ed" />
+<img width="1919" height="1058" alt="1" src="https://github.com/user-attachments/assets/465d727e-3741-471c-afbd-8136a06258cc" />
+
 
 
 
